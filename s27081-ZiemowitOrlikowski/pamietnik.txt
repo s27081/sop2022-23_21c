@@ -58,3 +58,14 @@ Na zajęciach prowadzący przedstawił jak funkcjonują procesy i jak z nich kor
 Uważam że muszę jeszcze poćwiczyć wykorzystywanie procesów
 
 Zaskakujące było jak procesy mogą wykonywać program
+
+2023-06-02
+Mój kochany pamiętniczku na dzisiejszych zajeciach nauczylem sie:
+-jak napisać prosty serwer plików
+-jak działają sygnały
+
+Na zajęciach prowadzący przedstawił jak działają sygnały w C oraz zaprezentował serwer plików.
+
+Uważam że muszę jeszcze poćwiczyć wykorzystanie sygnałów
+
+Zaskakujące było jak trudne zadanie dostaliśmy do zrobienia
